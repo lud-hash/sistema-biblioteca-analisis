@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sistema-biblioteca-analisis
-=======
 # Sistema de Gestión de Biblioteca 
 **Fecha:** 06/05/2026
 
@@ -20,4 +17,4 @@ Desarrollo de un sistema en modo consola utilizando **JavaScript** y **Node.js**
 * Git / GitHub (Control de versiones)
 * SQLite (Planificado para etapas posteriores)
 * Metodología BDD (Historias de Usuario: Dado/Cuando/Entonces)
->>>>>>> 978ca41 (Actualizado README con integrantes y descripción)
+
