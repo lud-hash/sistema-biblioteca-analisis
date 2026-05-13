@@ -16,4 +16,3 @@ Desarrollo de un sistema en modo consola utilizando **JavaScript** y **Node.js**
 * JavaScript (Runtime: Node.js)
 * Git / GitHub (Control de versiones)
 * SQLite (Planificado para etapas posteriores)
-* Metodología BDD (Historias de Usuario: Dado/Cuando/Entonces)
